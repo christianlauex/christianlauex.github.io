@@ -126,7 +126,7 @@ body {
 
 /* End */
 #end {
-    padding: 100px;
+    padding: 100px 0 ;
     background: var(--accent);
     color: var(--light);
     display: flex;
